@@ -1,6 +1,6 @@
 # AirFlow ETL/ELT пайплайн для сбора дашборда на базе данных Jivo
 
-Материалы к статье ["Построение дашборда DataLens  для клиентского сервиса на базе Jivo, AirFlow и ClickHouse"]()
+Материалы к статье ["Построение дашборда DataLens  для клиентского сервиса на базе Jivo, AirFlow и ClickHouse"](https://dzen.ru/a/ZPCJlwm7BXTGCkXj)
 
 ## Структура репозитория
 
